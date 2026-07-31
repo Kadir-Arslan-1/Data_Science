@@ -1,5 +1,5 @@
 
-🔗 **[Click here to view the full source code repository on GitHub](https://github.com/kadir-arslan-1/Data_Science)**
+🔗 **[Click here to view the full source code repository on GitHub](https://github.com/kadir-arslan-1/portfolio_projects)**
 
 For each project, the primary deliverable is a comprehensive **Project Report (PDF)**, which details the methodology, analysis, and business insights. All source code and datasets are neatly organized in the same directory as their respective reports for easy reference.
 
