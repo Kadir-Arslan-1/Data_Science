@@ -1,11 +1,7 @@
-# Hi, I'm Kadir 👋
-**B.Sc. Computer Science Student @ TU Dortmund | Aspiring Data Scientist**
-
-Welcome to my portfolio. This repository showcases my practical work in **Data Science** and **Mathematical Optimization**. 
 
 🔗 **[Click here to view the full source code repository on GitHub](https://github.com/kadir-arslan-1/portfolio_projects)**
 
-For each project, the primary deliverable is a comprehensive **Project Report (PDF)**, which details the methodology, analysis, and business insights. All source code (`.py`, `.gms`) and datasets (`.csv`) are neatly organized in the same directory as their respective reports for easy reference.
+For each project, the primary deliverable is a comprehensive **Project Report (PDF)**, which details the methodology, analysis, and business insights. All source code and datasets are neatly organized in the same directory as their respective reports for easy reference.
 
 ---
 
@@ -26,13 +22,4 @@ For each project, the primary deliverable is a comprehensive **Project Report (P
 
 ---
 
-## ⚙️ Mathematical Optimization
-*Tools: GAMS Studio, Python, Excel, Canva*
-
-| Project Name                 | Brief Description                                                                                                                                                                                                               | Project Report | GAMS Code                                                                                    |
-|:-----------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :---------------------|:-------------------| 
-| **VR Game Fun Optimization** | Development and Enhancement of Game Algorithms with a Focus on User Interaction and System Efficiency; Optimization of In-Game Experience and Overall User Satisfaction Through Strategic Pricing Models for In-App Purchases   | [📄 Read Report](./Optimization/game_fun_optimization/report/Game_Optimization_Mathematical_Modelling.pdf) | [💻 See Code](./Optimization/game_fun_optimization/game_optimization.gms) |
-| **Inventory Management**     | Optimized inventory storage and arrangement methods for construction materials in a drilling machine manufacturing company, prioritized materials based on strategic discounts, and improved drilling machine production speed. | [📄 Read Report](./Optimization/inventory_management/report/Inventory_Management_Mathematical_Modelling.pdf) | [💻 See Code](./Optimization/inventory_management/drilling_company_inventory_management.gms) |
-
----
 *Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kadir-arslan-de/) or [Email](mailto:kadirarslan917@gmail.com).*
