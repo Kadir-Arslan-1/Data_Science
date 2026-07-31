@@ -6,7 +6,7 @@ For each project, the primary deliverable is a comprehensive **Project Report (P
 ---
 
 ## 📊 Data Science Projects
-*Tools & Libraries: Python, Pandas, Scikit-Learn, Numpy, Scipy, Scikit-learn, Matplotlib, Statsmodels, Plotly, Seaborn*
+*Tools & Libraries: Python, Pandas, Scikit-Learn, Numpy, Scipy, Matplotlib, Statsmodels, Plotly, Seaborn*
 
 | Project Name | Brief Description                                                                                                                          | Project Report |
 | :--- |:-------------------------------------------------------------------------------------------------------------------------------------------| :--- |
